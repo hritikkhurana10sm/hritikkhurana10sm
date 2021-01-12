@@ -5,6 +5,7 @@ I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Ku
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Data Structures and Web Developing .
 - 🤔 I’m looking building some cool projects.
+- 💻 I'm Machine Learning Enthusiast.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him.
 
