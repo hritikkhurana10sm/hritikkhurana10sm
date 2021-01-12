@@ -3,8 +3,8 @@
 I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Kurukshetra University.
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with Automation.
+- 🌱 I’m currently learning Data Structures and Web Developing .
+- 🤔 I’m looking building some cool projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him.
 - 📫 Reach out to me :
@@ -20,6 +20,3 @@ I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Ku
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hritikkhurana10sm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hritik Khurana's GitHub Stats" />
 </a>
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hritikkhurana10sm" alt="visitor badge"/>
-</p>
