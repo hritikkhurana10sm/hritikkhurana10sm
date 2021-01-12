@@ -7,9 +7,6 @@ I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Ku
 - 🤔 I’m looking building some cool projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him.
-- 📫 Reach out to me :
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="hritik-khurana-8b3b32193"><a class="LI-simple-link" href='https://in.linkedin.com/in/hritik-khurana-8b3b32193?trk=profile-badge'>Hritik Khurana</a></div>
-
 
 ## &#x1f4c8; GitHub Stats
 
