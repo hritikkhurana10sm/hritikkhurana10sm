@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**hritikkhurana10sm/hritikkhurana10sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Kurukshetra University.
 
 - 🔭 I’m currently working on something cool.
