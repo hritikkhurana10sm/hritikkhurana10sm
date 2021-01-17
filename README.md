@@ -6,8 +6,10 @@ I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Ku
 - 🌱 I’m currently learning Data Structures and Web Developing .
 - 🤔 I’m looking building some cool projects.
 - 💻 I'm Machine Learning Enthusiast.
+- 😄 Pronouns: He/Him.  
 - 💬 Ask me about anything.
-- 😄 Pronouns: He/Him.
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHritikKhurana2">
+
 
 ## &#x1f4c8; GitHub Stats
 
