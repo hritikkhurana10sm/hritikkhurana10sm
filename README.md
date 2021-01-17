@@ -8,7 +8,7 @@ I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Ku
 - 💻 I'm Machine Learning Enthusiast.
 - 😄 Pronouns: He/Him.  
 - 💬 Ask me about anything.
- [![Twitter Badge](https://img.shields.io/badge/-@HritikKhurana2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HritikKhurana2)](https://twitter.com/HritikKhurana2) [![Linkedin Badge](https://img.shields.io/badge/-hritik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hritik-khurana-8b3b32193/)](https://www.linkedin.com/in/hritik-khurana-8b3b32193/) 
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HritikKhurana2)](https://twitter.com/HritikKhurana2) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hritik-khurana-8b3b32193/)](https://www.linkedin.com/in/hritik-khurana-8b3b32193/) 
 </br>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
