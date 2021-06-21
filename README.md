@@ -2,8 +2,9 @@
 
 I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Kurukshetra University.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Data Structures and Web Developing .
+- 🔭 I’m software developer from India.
+- 🌱 I’m currently learning Data Structures and Web Development .
+-  Currently Working as a Teaching Assistant at Coding Ninjas
 - 🤔 I’m looking building some cool projects.
 - 💻 I'm Machine Learning Enthusiast.
 - 😄 Pronouns: He/Him.  
