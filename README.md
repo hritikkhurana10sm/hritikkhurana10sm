@@ -4,7 +4,7 @@ I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Ku
 
 - 🔭 I’m software developer from India.
 - 🌱 I’m currently learning Data Structures and Web Development .
--  Currently Working as a Teaching Assistant at Coding Ninjas
+- 🤵 Currently Working as a Teaching Assistant at Coding Ninjas
 - 🤔 I’m looking building some cool projects.
 - 💻 I'm Machine Learning Enthusiast.
 - 😄 Pronouns: He/Him.  
