@@ -3,10 +3,10 @@
 I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Kurukshetra University.
 
 - 🔭 I’m software developer from India.
-- 🌱 I’m currently learning Data Structures and Web Development .
-- 🤵 Currently Working as a Teaching Assistant at Coding Ninjas
+- 🌱 I’m currently focusing on competitive programming (1751 Max Rating at Codechef).
+- 🤵 Ex-Teaching Assistant at Coding Ninjas
 - 🤔 I’m looking building some cool projects.
-- 💻 I'm Machine Learning Enthusiast.
+- 💻 I'm MEAN Stack Web Developer.
 - 😄 Pronouns: He/Him.  
 - 💬 Ask me about anything.
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HritikKhurana2)](https://twitter.com/HritikKhurana2) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hritik-khurana-8b3b32193/)](https://www.linkedin.com/in/hritik-khurana-8b3b32193/) 
