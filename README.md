@@ -3,7 +3,7 @@
 I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Kurukshetra University.
 
 - 🔭 I’m software developer from India.
-- 🌱 I’m currently focusing on competitive programming (1751 Max Rating at Codechef).
+- 🌱 I’m currently focusing on competitive programming (4⭐ Codechef).
 - 🤵 Ex-Teaching Assistant at Coding Ninjas
 - 🤔 I’m looking building some cool projects.
 - 💻 I'm MEAN Stack Web Developer.
