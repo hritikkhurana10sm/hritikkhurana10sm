@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Hritik Khurana, a sophomore pursuing BTech in Computer Science from UIET, Kurukshetra University.
+I'm Hritik Khurana, a prefinal student pursuing BTech in Computer Science from UIET, Kurukshetra University.
 
 - 🔭 I’m software developer from India.
 - 🌱 I’m currently focusing on competitive programming (4⭐ Codechef).
