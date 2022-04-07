@@ -66,9 +66,13 @@
 <br/>  
 
 
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikkhurana10sm&show_icons=true&count_private=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hritikkhurana10sm)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikkhurana10sm&show_icons=true&count_private=true)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hritikkhurana10sm)  
+
+</div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hritikkhurana10sm)  
 
