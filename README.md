@@ -8,7 +8,7 @@
 
 ## About Me
 
-🚀 Visit My Portfolio : https://hritikkhurana.live
+🚀 Visit My Portfolio : http://hritikkhurana.live
 
 ‣ I am a Software Engineering Student ( 3rd Year) pursuing Bachelor of Technology in Computer Science and Engineering . I am Competitive Programmer , Full Stack Web Developer and loves Problem Solving . I have solved around 600+ Data Structures and Algorithms Problems on various coding platforms.
 
