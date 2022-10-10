@@ -1,6 +1,6 @@
 
   
-<h1> Hello Fellow < Developers/ >! </h1>
+<h2><b> Namaste <\Developers> 🙏 </b></h2>
 <p align='center'>
  
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-🚀 Visit My Portfolio : https://hritikkhurana10sm.github.io
+🚀 Visit My Portfolio : https://hritikkhurana.me
 
 ‣ I am a Software Engineering Student ( 3rd Year) pursuing Bachelor of Technology in Computer Science and Engineering . I am Competitive Programmer , Full Stack Web Developer and loves Problem Solving . I have solved around 600+ Data Structures and Algorithms Problems on various coding platforms.
 
