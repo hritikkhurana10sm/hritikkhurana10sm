@@ -6,6 +6,8 @@
 
 ![I am Software Developer from India](https://user-images.githubusercontent.com/56023805/162286669-9b3b2379-2533-46cf-b22e-80486c6750a6.png)
 
+
+  
 ## About Me
 
 🚀 Visit My Portfolio : https://hritikkhurana.me
@@ -17,6 +19,7 @@
 ‣ Besides this , I am the Lead of Google Developer Students Club UIET KUK , where I organized various technical/non-technical events , helped people explore new domains and find their calling , conducted various seminars, competitions to promote tech in our college and created coding culture in college.
 
 
+  
 
 ## Connect with me   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <div align="left">
@@ -41,19 +44,20 @@
 <a href="https://medium.com/@hritikkhurana10sm" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+  
 </div>  
   
 
 <br/>  
+  
+  
 
-<div align="center">
+<div style = "display : flex; justify-content: center;">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikkhurana10sm&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hritikkhurana10sm)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikkhurana10sm&show_icons=true&count_private=true)   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hritikkhurana10sm)  
 
 </div>
 
-![Profile views](https://gpvc.arturio.dev/hritikkhurana10sm)  
-  <p><a href="https://www.buymeacoffee.com/hritikkhurana10"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hritikkhurana10" /></a></p>
+ [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD) 
+  <p style = "align : center;"><a href="https://www.buymeacoffee.com/hritikkhurana10"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hritikkhurana10" /></a></p>
 
