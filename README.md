@@ -4,9 +4,13 @@
 <p align='center'>
  
 
-![I am Software Developer from India](https://user-images.githubusercontent.com/56023805/162286669-9b3b2379-2533-46cf-b22e-80486c6750a6.png)
+![Construction LinkedIn Background Photo](https://user-images.githubusercontent.com/56023805/216158651-cc0c5d2e-2bbc-4f05-9063-60dddf7d551a.png)
 
+## Badges
 
+<img height = "70px" width = "290px" src = "https://user-images.githubusercontent.com/56023805/216162706-63b1cdb9-b363-4cb3-83c1-eceac67ef5fa.png">
+<img height = "100px" width = "150px" src = "https://user-images.githubusercontent.com/56023805/216162416-4dd57710-7505-4a0d-a1bc-b03f759b0386.png">
+<img height = "100px" width = "150px" src = "https://user-images.githubusercontent.com/56023805/216162357-f032eb60-0ce6-4912-bd7a-d7477e95defb.png"><img height = "100px" width = "150px" src = "https://user-images.githubusercontent.com/56023805/216162345-e3f2b1c3-7148-4ab2-96f6-7c8168d4f12f.png">
   
 ## About Me
 
@@ -50,7 +54,10 @@
 
 <br/>  
   
-  
+ <div>
+  </div![Construction LinkedIn Background Photo](https://user-images.githubusercontent.com/56023805/216158325-3103bce4-4aab-4ecb-a8e5-353b67fabd15.png)
+![Construction LinkedIn Background Photo](https://user-images.githubusercontent.com/56023805/216158634-e5744a69-ec43-41ef-ac4c-dddcbe5543a6.png)
+>
 
 <div style = "display : flex; justify-content: center;">
 
