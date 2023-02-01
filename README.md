@@ -8,10 +8,15 @@
 
 ## Badges
 
-<img height = "70px" width = "290px" src = "https://user-images.githubusercontent.com/56023805/216162706-63b1cdb9-b363-4cb3-83c1-eceac67ef5fa.png">
-<img height = "100px" width = "150px" src = "https://user-images.githubusercontent.com/56023805/216162416-4dd57710-7505-4a0d-a1bc-b03f759b0386.png">
-<img height = "100px" width = "150px" src = "https://user-images.githubusercontent.com/56023805/216162357-f032eb60-0ce6-4912-bd7a-d7477e95defb.png"><img height = "100px" width = "150px" src = "https://user-images.githubusercontent.com/56023805/216162345-e3f2b1c3-7148-4ab2-96f6-7c8168d4f12f.png">
-  
+ <div style = "display: flex; justify-content: center;">
+<img height = "62px" width = "196px" style = "margin-right: 40px" src = "https://user-images.githubusercontent.com/56023805/216162706-63b1cdb9-b363-4cb3-83c1-eceac67ef5fa.png">
+<img height = "80px" width = "90px" src = "https://user-images.githubusercontent.com/56023805/216162416-4dd57710-7505-4a0d-a1bc-b03f759b0386.png">
+<img height = "80px" width = "90px" src = "https://user-images.githubusercontent.com/56023805/216162357-f032eb60-0ce6-4912-bd7a-d7477e95defb.png"><img height = "80px" width = "100px" src = "https://user-images.githubusercontent.com/56023805/216162345-e3f2b1c3-7148-4ab2-96f6-7c8168d4f12f.png">
+
+<!--    https://user-images.githubusercontent.com/56023805/216166417-d19fc9e3-97b5-430d-9ea1-eae5c6ec4e34.png -->
+
+</div>
+
 ## About Me
 
 🚀 Visit My Portfolio : https://hritikkhurana.me
