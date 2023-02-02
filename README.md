@@ -51,7 +51,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
  
-
+## GitHub Profile Trophy
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hritikkhurana10sm)](https://github.com/hritikkhurana10sm/github-profile-trophy)
+  
 ## Connect with me   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <div align="left">
 <a href="https://github.com/hritikkhurana10sm" target="_blank">
